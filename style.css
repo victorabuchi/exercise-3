@@ -67,6 +67,12 @@ h1 {
     background-color: #e8e8e8;
 }
 
+#todo-list li.editing {
+    cursor: text;
+    background-color: #fff;
+    outline: 2px solid #4CAF50;
+}
+
 #remove-last-button {
     display: block;
     width: 100%;
