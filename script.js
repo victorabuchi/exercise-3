@@ -1,3 +1,5 @@
+// Group members: Victor Abuchi, Andrew Okeke, Oluwatimilehin Famuyiwa, Ahsan Ahsan
+
 // get elements
 const taskInput = document.getElementById('task-input');
 const addButton = document.getElementById('add-button');
